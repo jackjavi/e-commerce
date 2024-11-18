@@ -25,28 +25,28 @@ export default function Main() {
         emulateTouch={true}
       >
         <div>
-          <img src="https://www.liamjmoore.com/images/liam-moore-portfolio-john-lewis-9.jpg" />
+          <img src="http://res.cloudinary.com/popit/image/upload/v1731916889/d1m4wxit75kpabnswwi3.webp" />
           <p className="legend">Legend 3</p>
         </div>
         <div>
-          <img src="https://www.insightssuccess.in/wp-content/uploads/2020/12/785054-ecommerce-istock-020119.jpg" />
-          <p className="legend">Legend 2</p>
+          <img src="http://res.cloudinary.com/popit/image/upload/v1731917484/wuhfjxrpkoer1hbnee7i.jpg" />
+          <p className="legend">Legend 3</p>
         </div>
         <div>
-          <img src="https://1.bp.blogspot.com/-CccUX_R7xpk/YPF2An129PI/AAAAAAAABPM/l_yswgsw34Ua88ZCv8NCh-qGGBNQ-BIvwCNcBGAsYHQ/s1920/Small-appliances-banner-1920x500.jpg" />
+          <img src="http://res.cloudinary.com/popit/image/upload/v1731917641/r1gj5a4atkbdrzcphsx1.png" />
           <p className="legend">Legend 3</p>
         </div>
 
         <div>
-          <img src="https://trisvaraa.files.wordpress.com/2019/05/exclusive-features-that-makes-banarasi-sarees-special.jpg?w=656&h=290&crop=1" />
+          <img src="http://res.cloudinary.com/popit/image/upload/v1731916778/iykup2zvu6eoeq03opws.jpg" />
+          <p className="legend">Legend 2</p>
+        </div>
+        <div>
+          <img src="http://res.cloudinary.com/popit/image/upload/v1731917378/jcpfvtfn91ipzyhyhbrd.jpg" />
           <p className="legend">Legend 3</p>
         </div>
         <div>
-          <img src="https://www.ilovecarousel.com/blog/wp-content/uploads/2020/10/MG_4201-820x312.jpg" />
-          <p className="legend">Legend 3</p>
-        </div>
-        <div>
-          <img src="https://uk.yamaha.com/en/files/tw-e3b-purple-slider_5292a53b94567c3c40d65d5595c4c3ae.jpg?impolicy=resize&imwid=1200&imhei=480" />
+          <img src="http://res.cloudinary.com/popit/image/upload/v1731917737/e99ay47bltwnaa6j2hop.avif" />
           <p className="legend">Legend 3</p>
         </div>
       </Carousel>
